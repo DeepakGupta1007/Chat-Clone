@@ -1,3 +1,3 @@
 # Chat-Clone
+THIS CHAT CLONE IS MADE BY HTML,CSS AND JS.
 
-Chat Clone is made by html, css, bootstrap
